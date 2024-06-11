@@ -1,1 +1,5 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
+nextcloud:28-apache registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/nextcloud:28-apache
+nextcloud:29-apache registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/nextcloud:29-apache
+
+nginx:latest registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/nginx:latest
+
