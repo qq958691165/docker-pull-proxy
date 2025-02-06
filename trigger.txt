@@ -2,3 +2,5 @@ nextcloud:28-apache registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/nex
 nextcloud:29-apache registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/nextcloud:29-apache
 nextcloud:30-apache registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/nextcloud:30-apache
 nginx:latest registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/nginx:latest
+valkey/valkey:8-alpine registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/valkey:8-alpine
+searxng/searxng:latest registry.cn-guangzhou.aliyuncs.com/jackclub-docker-proxy/searxng:latest
